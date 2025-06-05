@@ -1,4 +1,5 @@
-# 📝 Report Submission: Cyberbullying Classification Project
+# 📝 Report Submission: Smart-Detection-of-Online-Harassment-Using-Machine-Learning (Classification)
+
 
 ## 🎯 Objective
 To develop a machine learning model capable of classifying tweets based on the type of cyberbullying, leveraging natural language processing and supervised learning techniques.
