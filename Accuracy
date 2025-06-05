@@ -1,1 +1,1 @@
- The Logistic Regression model achieved ~96% accuracy on the test set. It showed strong performance with Precision: 97%, Recall: 95%, and F1-Score: 96%. A confusion matrix was used for detailed evaluation, and 5-fold cross-validation confirmed its generalization on unseen data.
+The Logistic Regression model achieved ~96% accuracy on the test set. It showed strong performance with Precision: 97%, Recall: 95%, and F1-Score: 96%. A confusion matrix was used for detailed evaluation, and 5-fold cross-validation confirmed its generalization on unseen data.
